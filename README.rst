@@ -32,6 +32,12 @@ Requirements
 - wireguard
 - wireguard-tools
 
+Todo
+----
+- flake8
+- pytest
+- coverage
+- more docs
 
 Compatibility
 -------------
